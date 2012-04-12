@@ -1,5 +1,11 @@
 # WiseMapping: a Web based mindmapping application
 
+## About this repo
+
+This repo is **not** the oficial source base of WiseMapping. It is a fork of the last stable version (2.1.1) with my own modifications. Most importantly, it includes the config changes necessary to run WM as a (free) [CloudFoundry app](http://www.cloudfoundry.com).
+
+------------
+
 ## Project Information
 
 The goal of this project is to provide a high quality product that can be deployed by educational and academic institutions, private and public companies and anyone who needs to have a mindmapping application. WiseMapping is based on the same code source supporting WiseMapping.com. More info: www.wisemapping.org
