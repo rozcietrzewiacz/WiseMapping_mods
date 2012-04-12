@@ -4,7 +4,9 @@
 
 This repo is **not** the oficial source base of WiseMapping. It is a fork of the last stable version (2.1.1) with my own modifications. Most importantly, it includes the config changes necessary to run WM as a (free) [CloudFoundry app](http://www.cloudfoundry.com).
 
+
 *Original README follows*
+
 ------------
 
 ## Project Information
@@ -17,17 +19,17 @@ The goal of this project is to provide a high quality product that can be deploy
 
 The following products must be installed:
 
-    * Java Development Kit 6 or higher (http://java.sun.com/javase/downloads/index.jsp)
-    * Maven 2.2.1 or higher (http://maven.apache.org/)
+   * Java Development Kit 6 or higher (http://java.sun.com/javase/downloads/index.jsp)
+   * Maven 2.2.1 or higher (http://maven.apache.org/)
 
 ### Compiling
 
 WiseMapping uses Maven as packaging and project management. The project is composed of 4 maven sub-modules:
 
-    * core-js: Utilities JavaScript libraries
-    * web2d: JavaScript 2D VML/SVG abstraction library used by the mind map editor
-    * mindplot: JavaScript mind map designer core
-    * wise-webapp: J2EE web application 
+   * core-js: Utilities JavaScript libraries
+   * web2d: JavaScript 2D VML/SVG abstraction library used by the mind map editor
+   * mindplot: JavaScript mind map designer core
+   * wise-webapp: J2EE web application 
 
 Full compilation of the project can be done executing within `<project-dir>`:
 
