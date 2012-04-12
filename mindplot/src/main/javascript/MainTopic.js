@@ -306,7 +306,7 @@ mindplot.MainTopic.prototype._defaultFontStyle = function()
                 size: 8,
                 style:"normal",
                 weight:"normal",
-                color:"#525c61"
+                color:"#000"
             };
         } else
         {
@@ -315,7 +315,7 @@ mindplot.MainTopic.prototype._defaultFontStyle = function()
                 size: 6,
                 style:"normal",
                 weight:"normal",
-                color:"#525c61"
+                color:"#000"
             };
         }
     } else
@@ -325,7 +325,7 @@ mindplot.MainTopic.prototype._defaultFontStyle = function()
             size: 8,
             style:"normal",
             weight:"normal",
-            color:"#525c61"
+            color:"#000"
         };
     }
     return result;
