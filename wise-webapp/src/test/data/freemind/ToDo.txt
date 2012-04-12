@@ -1,0 +1,7 @@
+- Done: Node Links
+- Relationship between nodes
+- HTML embedded in nodes.
+
+- No supported ...
+- Edge colors
+- Edges width
